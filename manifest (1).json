@@ -1,0 +1,20 @@
+{
+  "id": "/kalkulator-bahan/",
+  "name": "Bahan Baku SPPG Bantaeng Gantarangkeke",
+  "short_name": "Bahan Baku SPPG",
+  "description": "Menghitung kebutuhan bahan baku harian program MBG dan mencetaknya sebagai surat pesanan.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "lang": "id",
+  "dir": "ltr",
+  "categories": ["productivity", "business"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
